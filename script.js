@@ -10,7 +10,7 @@ window.addEventListener("scroll", () => {
 
 const texts = [
   "AI & Data Science Student",
-  "Aspiring Developer",
+  "Web Developer",
   "Learning. Building. Growing."
 ];
 
